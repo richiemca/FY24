@@ -17,6 +17,7 @@
 - Look for opportunities with cross-business integration to increase efficiency and innovation with updated ways of working. Looking to push out the Creative Training and Evaluation to the Strategy team FY25 (Delayed to restructure in the L&D team).
 - Improved our Subbing processes and skills via a Subbing workshop, we are now subbing aim Video subtitles.
 - Look for ways to help VisDom access a wider selection of key talent that sets our projects up for success. We have successfully integrated other shooting (video filming) options for VisDom. Examples include Medibank, Philips, and SpecSavers.
+- Improved resourcing and delivery through xFit training, expanding the team's capabilities in video concepting, idea articulation, and subbing skills. This cross-training enabled us to deliver complex projects like the Disney video series, Philips air fryer campaign, and Aussie Broadband content.
 
 ## Goal: Cost: Keep controllable costs to budget
 
@@ -32,8 +33,7 @@
 **✅ FY25 Key Achievements:**
 - Optimised maternity leave coverage, by using critical thinking to reducing overlap to save cost.
 - Only using freelancer resources when there is a clear resourcing gap and revenue to cover, the Amazon Christmas project was a good example of this.
-- Developing AI-powered workflows to enhance efficiency in native writing, freeing up time for higher-value creative work.
-- Running informal ai skill sharing sessions with the team
+- Championing the use of AI powered workflows to enhance efficiency in native writing, freeing up time for higher-value creative work. Examples include Project Wizard and FireFly for PaceSetters.
 - Delivered cost-effective creative solutions while maintaining high production values, by working with in preset packages. Examples include Coles, Aussie Broadband, Old El Paso, and Westpac.
 - Further refined AI tools and workflow efficiencies through AI-powered headline and standfirst generation (now implemented and expanding). Addressed a 17% team reduction and increased workload by implementing Google Vertex AI to automate headline and standfirst generation for high-volume Native Articles. This resulted in a 6x increase in speed, saving 37 days annually at minimal cost. Full rollout is underway, with ongoing refinement of AI prompts and exploration of future technologies like NewsGPT.
 - Identified new opportunities to optimise resources without compromising creative excellence through our Xfit cross-functional training programme. Successfully delivered targeted cross-training in Subbing, TGA compliance, legal best practices, and advanced video scripting. This upskilling doubled our scriptwriting resources and expanded in-house production capabilities. Also pushed for AI adoption in projects including FireFly for Pace Setters 25, Harvey Norman AI dog talent, and Project Wizard.
