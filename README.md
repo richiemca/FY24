@@ -10,7 +10,7 @@
 
 **✅ FY25 Key Achievements:**
 
-– Ensuring the team is using Wrike effectively and logging their times. With the Wrike dashboard now available, actively using it to monitor team utilisation and capacity, with a focus on providing transparency on the more editorial embedded team members like Cam Ward and David Goldsmith. On track for 80% utilisation.
+- Ensuring the team is using Wrike effectively and logging their times. With the Wrike dashboard now available, actively using it to monitor team utilisation and capacity, with a focus on providing transparency on the more editorial embedded team members like Cam Ward and David Goldsmith. On track for 80% utilisation.
 - Ensuring the team works closely with VisDom on production for clients, including TAB, El Paso, Aussie Broadband, Westpac, SpecSavers, Coles and more.
 - Enabling the team to work closely with Suddenly for Black Friday and Amazon, ensuring seamless execution from a copy perspective
 - Worked closely with Sales, contributing to winning pitches and brilliant customer service (additional detail in the revenue section).
