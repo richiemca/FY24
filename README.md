@@ -44,9 +44,8 @@
 
 **✅ FY25 Key Achievements:**
 - The department has maintained a perfect: CSAT score of 5.
-- Maintained News as Harvey Norman's preferred publishing partner by far.
-- Spec savers and Aussie Broad band are examples of clients that continue repeat bookings
-- Maintained Harvey Norman spend despite delicious magazine due the the high level of customer service and creative. Quote from Lyns
+- Maintained News as Harvey Norman’s preferred publishing partner, as demonstrated by our ability to retain spend despite the closure of titles.
+- Specsavers and Aussie Broadband are examples of clients demonstrating ongoing confidence in our creative through repeat bookings.
 
 ## Goal: Delivery: Creative excellence by delivering creative to brief
 
@@ -58,12 +57,10 @@
 
 **✅ FY25 Key Achievements:**
 - Received positive feedback from clients for major projects (Myer, Coles, Harvey Norman, Medibank).
-- Assisted and led the awards submissions by identifying relevant global awards and creating award submissions, including Donate Life and Mars. Also stepped in and guided the rewrite and re-edit of the NRMA submission.
-- Successfully integrated the commercial copy team & creative solutions team, forming a high-performing unit. The team worked on a total media value exceeding $307M and won the Best
-- All hands talk about AwardFit
-- Lead the team in a range of award winning work and case study submissions. Donate Life: Silver - Best Use of Video./ Silver - Best Influencer Partnership
-- Mars Petcare: Bronze - Best Series of Sponsored Articles / https://www.nativeadvertisinginstitute.com/awards
-- NRMA / Gold - Print & Publishing
+- Assisted and led the awards submissions by identifying relevant global awards and creating award submissions, including Donate Life and Mars. Also stepped in and guided the rewrite and re-edit of the NRMA submission when needed.
+- Successfully integrated the commercial copy team & creative solutions team, forming a high-performing unit. The team helped worked on with the CCP a total of 2,843 jobs and a media value of $1.2B (Yep Billion, thats the number in Wrike might need verifying) Also we won the Best Team at the half year All hands.
+- Lead the team submissions for a range of award winning work and case studies. Wins include Donate Life: Silver - Best Use of Video./ Silver - Best Influencer Partnership
+- Mars Petcare: Bronze - Best Series of Sponsored Articles / https://www.nativeadvertisinginstitute.com/awards and NRMA / Gold - Print & Publishing
 - This goal is on track – some examples include: Scenic (more than $1m – repeat client), Medibank (approx $3m – new client), Harvey Norman/Domayne (our biggest repeat client)
 - I also helped guide other members of the team through some tricky jobs to ensure quality results for clients such as Philips, Westpac and the brands featured in the metro wraps (such as TGG, HN/Domayne, Luxury Escapes).
 
