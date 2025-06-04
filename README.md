@@ -9,14 +9,13 @@
 • Optimising WOW within CCP to improve resourcing and delivery
 
 **✅ FY25 Key Achievements:**
-- Ensuring the team works closely with VisDom on production for clients, including TAB, El Paso, Aussie Broadband, Coles and more.
-- Enabling the team to work closely with Suddenly for Black Friday, ensuring seamless execution from a copy perspective
-- Ensuring the team is using Wrike effectively and logging their times. With the Wrike dashboard now available, actively using it to monitor team utilisation and capacity.
+– Ensuring the team is using Wrike effectively and logging their times. With the Wrike dashboard now available, actively using it to monitor team utilisation and capacity, with a focus on providing transparency on the more editorial embedded team members like Cam Ward and David Goldsmith. On track for 80% utilisation.
+- Ensuring the team works closely with VisDom on production for clients, including TAB, El Paso, Aussie Broadband, Westpac, SpecSavers, Coles and more.
+- Enabling the team to work closely with Suddenly for Black Friday and Amazon, ensuring seamless execution from a copy perspective
 - Worked closely with Sales, contributing to winning pitches and brilliant customer service (additional detail in the revenue section).
 - Look for opportunities with cross-business integration to increase efficiency and innovation with updated ways of working. Looking to push out the Creative Training and Evaluation to the Strategy team FY25 (Delayed to restructure in the L&D team).
-- Develop structured workflows to improve project clarity and process Alignment. We have improved our Subbing processes and skills via a Subbing workshop, we are now subbing aim Video subtitles and also data subbing in fy25.
+- Improved our Subbing processes and skills via a Subbing workshop, we are now subbing aim Video subtitles.
 - Look for ways to help VisDom access a wider selection of key talent that sets our projects up for success. We have successfully integrated other shooting (video filming) options for VisDom. Examples include Medibank, Philips, and SpecSavers.
-- Make use of the Wrike Dashboard to ensure the team is working effectively from a utilisation point of view, with a focus on providing transparency on the more editorial embedded team members, like Cam Ward and David Goldsmith. This has been successfully implemented now.
 
 ## Goal: Cost: Keep controllable costs to budget
 
